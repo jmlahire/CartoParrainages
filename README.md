@@ -1,8 +1,7 @@
-# D3StartupApp
+# CartoParrainages
 
-Fork maison de rollup-startup-app https://github.com/rollup/rollup-starter-app *
-Utilise rollup pour le packaging, sass pour les styles
-Les données du dossier assets sont copiées telles quelles
+Basé sur rollup-startup-app https://github.com/rollup/rollup-starter-app pour le déploiement (utilise rollup pour le packaging, sass pour les styles)
+Les données sont découpées par département dans le dossier assets/data
 
 ## Utilisation
 
@@ -10,7 +9,7 @@ Les données du dossier assets sont copiées telles quelles
 Dans le répertoire du projet: 
 
 ```bash
-git clone https://github.com/jmlahire/D3StarterApp.git .
+git clone https://github.com/jmlahire/CartoParrainages.git .
 npm install
 
 ```
